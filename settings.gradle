@@ -1,0 +1,2 @@
+rootProject.name='TODO list MVI'
+include ':app'
